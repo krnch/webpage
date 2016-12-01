@@ -1,0 +1,5 @@
+- name: Blog
+  href: '/blog/'
+
+- name: Life
+  href: '/life/'

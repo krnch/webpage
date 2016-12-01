@@ -1,0 +1,42 @@
+- name:
+    detail: Project Economics
+    i18n: nextcode
+  desc:
+    detail: Worked on the Company's Open Energy platform written in the Java Spring Framework used to provide customized software to its clients.
+           Developed Features and worked on bugs in the software.
+    i18n: nextcode_des
+  date:
+    detail: Sept. 2016 - Nov 2016
+    i18n: nextcode_date
+  job:
+    detail: Software developer Intern
+    i18n: nextcode_job
+  icon: 
+- name:
+    detail: Chegg.com
+    i18n: netease
+  desc:
+    detail: 'Worked as a tutor for chegg.com teaching undergraduates the following subjects - Algorithms, Python
+programming, C++ programming and Machine learning concepts'
+    i18n: netease_des
+  date:
+    detail: Jun. 2015
+    i18n: nextcode_date
+  job:
+    detail: Tutor
+    i18n:
+  icon: 
+
+- name:
+    detail: Graduation
+    i18n: college
+  desc:
+    detail: At June 2016,I completed my undergrad and joined NYU for Graduate Masters in Computer Science.
+    i18n: college_des
+  date:
+    detail: Jun. 2016
+    i18n: college_date
+  job:
+    detail: Student
+    i18n: college_job
+  icon: fa-book

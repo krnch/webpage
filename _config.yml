@@ -1,0 +1,89 @@
+# Welcome to Jekyll!
+
+# Website settings
+title: "Karan Chaudhari"
+description: "Karan Chaudhari"
+keywords: "portfolio website"
+baseurl: "/"
+url: "http://www.jack003.com"
+# url: "http://127.0.0.1:4000"
+
+# author
+author:
+  name: 'Karan'
+  first_name: 'Karan'
+  last_name: 'Chaudhari'
+  email: '93.karan@gmail.com'
+  facebook_username: 'karan.chaudhari.714'
+  github_username: 'krnch'
+  head_img: 'static/img/landing/karan.png'
+  desc: 'I am a Computer Science Student at Nyu. Interested in Software Development and Machine Learning.  '
+
+# sections
+sections:
+  - id: 'about-me'
+    i18n: 'nav.about_me'
+    name: 'About'
+    tpl: 'about.html'
+    css: ''
+
+  - id: 'career'
+    i18n: 'nav.career'
+    name: 'Career'
+    tpl: 'career.html'
+    css: 'timeline'
+
+  - id: 'skills'
+    i18n: 'nav.skills'
+    name: 'Skills'
+    tpl: 'skills.html'
+    css: 'team'
+
+  - id: 'projects'
+    i18n: 'nav.projects'
+    name: 'Projects'
+    tpl: 'projects.html'
+    css: 'project'
+
+  - id: 'blog'
+    i18n: 'nav.blog'
+    name: 'Blog'
+    tpl: 'blog.html'
+    css: 'testimonials navy-section'
+
+
+# localization
+languages:
+  - locale: 'en'
+    flag: 'static/img/flags/United-States.png'
+  - locale: '<language_locale>'
+    flag: '<language_flag_url>'
+  
+
+# blog img path
+img_path: ''
+
+
+
+# comment
+#disqus:
+#  name: krnch
+#  public_key: SO8rar8G4rvgBN9YV0CqFN8sKfhuHQLEWqatTHMuHB2qb4KTT5kWBqN7eoSzcwGW
+
+
+
+# google analytics
+ga:
+  id: UA-73784599-1
+
+
+
+# Build settings
+encoding: "utf-8"
+
+# other settings
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge

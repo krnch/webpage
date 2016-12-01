@@ -1,0 +1,13 @@
+{
+  "website":{
+    "title": "Jalpc"
+  },
+  "nav":{
+    "home": "Home",
+    "about_me": "About",
+    "skills": "Skills",
+    "career": "Career",
+    "blog": "Blog",
+    "contact": "Contact"
+  }
+}

@@ -1,0 +1,20 @@
+- name: Python
+  percentage: 85
+
+- name: C++
+  percentage: 80
+
+- name: Java
+  percentage: 75
+
+- name: Java Spring, Jsp
+  percentage: 85
+
+- name: Databases :Mysql ,Sqlite
+  percentage: 80
+
+- name: MongoDb
+  percentage: 70
+
+- name: Python Libraries for Machine learning
+  percentage: 80

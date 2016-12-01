@@ -1,0 +1,27 @@
+- name: 'Tweet map'
+  i18n: 'sas'
+  url: '/krnch/ScalableTweetMap'
+  img: ''
+  desc: 'Performed Sentiment Analysis on tweets extracted from twitters real time feed .Built a scalable cloud application using Python flask and the Amazon Web Services components - elastic beanstalk,sqs and sns'
+
+- name: 'Recommendation System'
+  i18n: 'reco'
+  url: '/krnch/Svd-Recommender'
+  img: ''
+  desc: "Used the yelp Dataset to predict business ratings
+.The implementation was done using python pandas and a hybrid approach is used alongwith dimen-
+sionality reduction techniques to improve efficiency. Wrote a paper titled -Predicting business Successfulness using Predictive data analytics . based on this project which is published in the IJCA journal"
+
+- name: 'Questionnaire Application'
+  i18n: 'qa'
+  url: ''
+  img: ''
+  desc: " Team Project at college . Developed a Questionnaire System consisting of both offline and online android apps and a Web Application in web2py(A python based web Framework)."
+
+- name: 'Procedural Content generation'
+  i18n: 'pcg'
+  url: ''
+  img: ''
+  desc: Worked on rendering fractal objects using iterated function systems in Java. Built a two dimensional iterated function systems generator to procedurally render images
+
+
