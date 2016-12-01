@@ -66,9 +66,9 @@ img_path: ''
 
 
 # comment
-disqus:
- name: krnch
- public_key: aQtmne08ZSvFO8OtnJtuuxYlP2r5occFmlOSX42aO902pJVIzufpdsASibw317pt
+#disqus:
+ #name: krnch
+ #public_key: aQtmne08ZSvFO8OtnJtuuxYlP2r5occFmlOSX42aO902pJVIzufpdsASibw317pt
 
 
 
