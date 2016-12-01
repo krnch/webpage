@@ -17,13 +17,13 @@ Their Major Services- [service](http://www.projecteconomics.net/services.html)
 
 Here's a list of activities / tasks I completed as a part of my internship .
 
-->Added customer support features for notes and tickets to  the existing software written in Java Spring Framework.
+*Added customer support features for notes and tickets to  the existing software written in Java Spring Framework.
 
-->Created a new dashboard showing aggregated data for User Details related to ticksets issued .
+*Created a new dashboard showing aggregated data for User Details related to ticksets issued .
 
-->Ported the created features across all different modules of the platform .
+*Ported the created features across all different modules of the platform .
 
-->Resolved existing bugs in the software .
+*Resolved existing bugs in the software .
 
 Overall my experience at Project Economics was interesting and I got to learn a lot about Writing and Maintaining Quality Code for larger codebases
 
