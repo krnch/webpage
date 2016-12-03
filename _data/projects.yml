@@ -8,9 +8,10 @@
   i18n: 'reco'
   url: '/krnch/Svd-Recommender'
   img: ''
-  desc: "Used the yelp Dataset to predict business ratings
-.The implementation was done using python pandas and a hybrid approach is used alongwith dimen-
-sionality reduction techniques to improve efficiency. Wrote a paper titled -Predicting business Successfulness using Predictive data analytics . based on this project which is published in the IJCA journal"
+  desc: "  Used the yelp Dataset to predict business ratings
+◦ Implemented Singular value decomposition (SVD)from scratch in python .Other algorithms implemented
+were Knn and Linear Regression. A hybrid system was developed based on the sparsity of
+data to improve efficiency. Used Python library Matplotlib for data Visualisation "
 
 - name: 'Questionnaire Application'
   i18n: 'qa'
