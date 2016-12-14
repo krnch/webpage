@@ -2,7 +2,7 @@
   i18n: 'sn'
   url: '/krnch/Smartnews'
   img: ''
-  desc: 'Implemnted an Application for recommending live news obtained from News Api '
+  desc: "Implemnted an Application for recommending live news obtained from News Api "
 
 - name: 'Tweet map'
   i18n: 'sas'
