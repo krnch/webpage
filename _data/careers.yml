@@ -1,4 +1,32 @@
 - name:
+    detail: Morgan Stanley
+    i18n: netease
+  desc:
+    detail: 'Work on real time and end of day risk calculation applications for all prime brokerage and wealth management trades at Morgan Stanley'
+    i18n: netease_des
+  date:
+    detail: Aug 2018 - Present
+    i18n: nextcode_date
+  job:
+    detail: Software Engineer
+    i18n:
+  icon: 
+  
+- name:
+    detail: Amazon web services
+    i18n: netease
+  desc:
+    detail: 'Worked on Merges for AWS CodeCommit'
+    i18n: netease_des
+  date:
+    detail: May 2017 - Aug 2017
+    i18n: nextcode_date
+  job:
+    detail: Software developer Intern
+    i18n:
+  icon: 
+  
+- name:
     detail: Project Economics
     i18n: nextcode
   desc:
@@ -12,31 +40,5 @@
     detail: Software developer Intern
     i18n: nextcode_job
   icon: 
-- name:
-    detail: Chegg.com
-    i18n: netease
-  desc:
-    detail: 'Worked as a tutor for chegg.com teaching undergraduates the following subjects - Algorithms, Python
-programming, C++ programming and Machine learning concepts'
-    i18n: netease_des
-  date:
-    detail: Jan 2016 - Aug 2016
-    i18n: nextcode_date
-  job:
-    detail: Tutor
-    i18n:
-  icon: 
 
-- name:
-    detail: Graduation
-    i18n: college
-  desc:
-    detail: At June 2016,I completed my undergrad and joined NYU for Graduate Masters in Computer Science.
-    i18n: college_des
-  date:
-    detail: Jun. 2016
-    i18n: college_date
-  job:
-    detail: Student
-    i18n: college_job
-  icon: fa-book
+
