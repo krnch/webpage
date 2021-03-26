@@ -5,7 +5,7 @@ title: "Karan Chaudhari"
 description: "Karan Chaudhari"
 keywords: "portfolio website"
 baseurl: "/"
-url: "http://www.jack003.com"
+url: "http://krnch.me"
 # url: "http://127.0.0.1:4000"
 
 # author
@@ -66,9 +66,9 @@ img_path: ''
 
 
 # comment
-#disqus:
-#  name: krnch
-#  public_key: SO8rar8G4rvgBN9YV0CqFN8sKfhuHQLEWqatTHMuHB2qb4KTT5kWBqN7eoSzcwGW
+disqus:
+  name:krnch
+  public_key: 0Cvfiv7IrGaDtcXVIVFmZt2ri7b7AvCT3WRG5ZlDlLRHRqDwbtImrVeE7rlOmJps
 
 
 

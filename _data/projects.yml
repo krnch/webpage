@@ -1,3 +1,9 @@
+- name: 'SmartNews'
+  i18n: 'sn'
+  url: '/krnch/Smartnews'
+  img: ''
+  desc: "Implemnted an Application for recommending live news obtained from News Api "
+
 - name: 'Tweet map'
   i18n: 'sas'
   url: '/krnch/ScalableTweetMap'
@@ -8,20 +14,14 @@
   i18n: 'reco'
   url: '/krnch/Svd-Recommender'
   img: ''
-  desc: "Used the yelp Dataset to predict business ratings
-.The implementation was done using python pandas and a hybrid approach is used alongwith dimen-
-sionality reduction techniques to improve efficiency. Wrote a paper titled -Predicting business Successfulness using Predictive data analytics . based on this project which is published in the IJCA journal"
+  desc: "  Used the yelp Dataset to predict business ratings
+◦ Implemented Singular value decomposition (SVD)from scratch in python .Other algorithms implemented
+were Knn and Linear Regression. A hybrid system was developed based on the sparsity of
+data to improve efficiency. Used Python library Matplotlib for data Visualisation "
 
-- name: 'Questionnaire Application'
+- name: 'Graffiti Match'
   i18n: 'qa'
   url: ''
   img: ''
-  desc: " Team Project at college . Developed a Questionnaire System consisting of both offline and online android apps and a Web Application in web2py(A python based web Framework)."
-
-- name: 'Procedural Content generation'
-  i18n: 'pcg'
-  url: ''
-  img: ''
-  desc: Worked on rendering fractal objects using iterated function systems in Java. Built a two dimensional iterated function systems generator to procedurally render images
-
+  desc: " Extracted all the 30000 graffiti images on data.sf.gov. Used this dataset to train a model using neural networks to predict if the image is graffiti or not. This project was built and presented at Techcrunch Disrupt hackathon and our submission won an award"
 
